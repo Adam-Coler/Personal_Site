@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Personal_Site.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\NuiLab01\Documents\Unreal Projects\Personal_Site\Personal_Site\Intermediate\Build\Win64\Personal_SiteEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\NuiLab01\Documents\Unreal Projects\Personal_Site\Personal_Site\Intermediate\Build\Win64\UE4Editor\Development\Personal_Site\Personal_Site.cpp.obj"
+"C:\Users\NuiLab01\Documents\Unreal Projects\Personal_Site\Personal_Site\Intermediate\Build\Win64\UE4Editor\Development\Personal_Site\Personal_SiteCharacter.cpp.obj"
+"C:\Users\NuiLab01\Documents\Unreal Projects\Personal_Site\Personal_Site\Intermediate\Build\Win64\UE4Editor\Development\Personal_Site\Personal_SiteGameMode.cpp.obj"
+"C:\Users\NuiLab01\Documents\Unreal Projects\Personal_Site\Personal_Site\Intermediate\Build\Win64\UE4Editor\Development\Personal_Site\Personal_Site.init.gen.cpp.obj"
+"C:\Users\NuiLab01\Documents\Unreal Projects\Personal_Site\Personal_Site\Intermediate\Build\Win64\UE4Editor\Development\Personal_Site\Personal_SiteCharacter.gen.cpp.obj"
+"C:\Users\NuiLab01\Documents\Unreal Projects\Personal_Site\Personal_Site\Intermediate\Build\Win64\UE4Editor\Development\Personal_Site\Personal_SiteGameMode.gen.cpp.obj"
+"C:\Users\NuiLab01\Documents\Unreal Projects\Personal_Site\Personal_Site\Intermediate\Build\Win64\UE4Editor\Development\Personal_Site\PCLaunch.rc.res"
+/OUT:"C:\Users\NuiLab01\Documents\Unreal Projects\Personal_Site\Personal_Site\Intermediate\Build\Win64\UE4Editor\Development\Personal_Site\UE4Editor-Personal_Site.lib"

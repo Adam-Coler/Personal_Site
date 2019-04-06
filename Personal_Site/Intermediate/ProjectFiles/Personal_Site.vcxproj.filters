@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Personal_Site.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{4AE28AF6-ADEA-4865-BF26-0487869576DD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Personal_Site.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Personal_SiteEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{8FFAA89C-F88C-499E-8EF7-24217F3EAF73}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Personal_Site">
+      <UniqueIdentifier>{464AF23E-0335-4FEE-9379-01C27D62F01A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Personal_Site\Personal_Site.Build.cs">
+      <Filter>Source\Personal_Site</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Personal_Site\Personal_Site.cpp">
+      <Filter>Source\Personal_Site</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Personal_Site\Personal_Site.h">
+      <Filter>Source\Personal_Site</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Personal_Site\Personal_SiteCharacter.cpp">
+      <Filter>Source\Personal_Site</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Personal_Site\Personal_SiteCharacter.h">
+      <Filter>Source\Personal_Site</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Personal_Site\Personal_SiteGameMode.cpp">
+      <Filter>Source\Personal_Site</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Personal_Site\Personal_SiteGameMode.h">
+      <Filter>Source\Personal_Site</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
